@@ -1,4 +1,4 @@
-
+/* Index */
 body {
     background-color: rgba(238, 234, 226, 0.848);
 }
@@ -29,3 +29,14 @@ a {
     font-family: Georgia, "Times New Roman", sans-serif;
     font-size: 36px;
 }
+
+/* Enchiladas */
+
+.enchi-h1 {
+    color: brown;
+    font-family: Georgia, "Times New Roman", sans-serif;
+    font-size: 36px;
+    text-align: center;
+
+}
+
