@@ -9,9 +9,13 @@ body {
     text-align: center;
 }
 
+.main-image {
+    position: relative;
+    bottom: 170px;
+}
+
 a {
     color: rgb(11, 11, 47);
     font-family: Georgia, "Times New Roman", sans-serif;
     font-size: 26px;
-
 }
