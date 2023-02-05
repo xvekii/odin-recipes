@@ -38,6 +38,11 @@ a {
     width: 50%;
 }
 
+p, li {
+    font-family: Georgia, "Times New Roman", sans-serif;
+    font-size: 20px;
+}
+
 /* Enchiladas */
 
 .enchi-h1 {
