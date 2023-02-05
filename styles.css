@@ -45,10 +45,20 @@ p, li {
 
 /* Enchiladas */
 
-.enchi-h1 {
-    color: brown;
+.enchi-h1,
+.shawa-h1 {
+    
     font-family: Georgia, "Times New Roman", sans-serif;
     font-size: 36px;
     text-align: center;
 }
 
+.enchi-h1 {
+    color: brown;
+}
+    
+/* Shawarma */
+.shawa-h1 {
+    color: rgb(207, 165, 13);   
+
+}
