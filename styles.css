@@ -3,8 +3,15 @@ body {
 
 }
 
-h1 {
+.title {
     font-family: Georgia, "Times New Roman", sans-serif;
-    font-size: 46px;
+    font-size: 76px;
     text-align: center;
+}
+
+a {
+    color: rgb(11, 11, 47);
+    font-family: Georgia, "Times New Roman", sans-serif;
+    font-size: 26px;
+
 }
