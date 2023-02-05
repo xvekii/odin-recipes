@@ -11,14 +11,14 @@ body {
 
 .div-img {
     position: relative;
-    bottom: 50px;
+    bottom: 40px;
     padding: 0;
     
 }
 
 .main-image {
     position: absolute;
-    top: 1px;
+    
     
 }
 
